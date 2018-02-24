@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # gittest
+=======
+# rude
+>>>>>>> master
